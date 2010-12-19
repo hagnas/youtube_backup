@@ -1,7 +1,11 @@
 Script that backs up all the Youtube-videos in a users favorites-list
 
-Requires youtube-dl to be installed. Use homebrew or follow instruction here: 
+This script allows you to simply backup locally all the Youtube-videos that you have favorited. A good way to keep up to date with your Youtube-favorites is to add this script into cron and have it run daily. Remember to edit the settings in the first part of the script.
+
+Requires youtube-dl to be installed. follow instruction here: 
 http://bitbucket.org/rg3/youtube-dl/wiki/Home
+
+Or use your favorite package-management system to install youtube-dl. Make sure youtube-dl is up to date if there are problems by running 'youtube-dl -U'.
 
 See http://www.github.com/hagnas/youtube_backup for more information and the latest version.
 
