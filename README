@@ -9,6 +9,8 @@ Or use your favorite package-management system to install youtube-dl. Make sure 
 
 See http://www.github.com/hagnas/youtube_backup for more information and the latest version.
 
+If you are a Linux/Ubuntu user, Dylan Lloyd has a fork that supports Notify OSD here: https://github.com/nospampleasemam/youtube_backup that might be of interest to you.
+
 -------
 
 Copyright (c) 2010, Henry Hagnäs <henry@hagnas.com>
